@@ -28,8 +28,33 @@
 #I wish to request for an entry-level position.
 #'''
 #print(email)
-first = 'John'
-last = 'Smith'
+#first = 'John'
+#last = 'Smith'
 #msg = first + ' [' + last + '] is a coder' 
-msg = f'{first} [{last}] is a coder'
-print(msg)
+#msg = f'{first} [{last}] is a coder'
+#print(msg)
+#course = 'Python for Beginners'
+#print(len(course))
+#print(course.upper())
+#print(course.lower())
+#print(course)
+#print(course.replace('Beginners', 'Absolute Beginners'))
+#print('python' in course)
+#ARITHMETIC OPERATIONS IN PYTHON
+#print(10 + 3)
+#print(10 - 3)
+#print(10 * 3)
+#print(10 / 3)
+#print(10 // 3)
+#print(10 ** 3)
+#print(10 % 3)
+#x = 10
+#x = x + 3
+#x += 3
+#print(x)
+#x = 10 + 3 * 2
+#print(x)
+#x = 10 + 3 * 2 ** 2
+#print(x)
+#print(round(2.9))
+print(abs(-2.9))

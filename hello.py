@@ -57,4 +57,29 @@
 #x = 10 + 3 * 2 ** 2
 #print(x)
 #print(round(2.9))
-print(abs(-2.9))
+#print(abs(-2.9))
+#import math
+#print(math.ceil(2.9))
+#print(math.floor(2.9))
+#is_hot = False
+#is_cold = False
+#if is_hot:
+ #   print("It is a hot day")
+  #  print("Drink lots of water")
+#elif is_cold:
+ #   print("It is a cold day")
+  #  print("wear warm cloths")
+#else:
+ #   print("it is a lovely day")
+#print("enjoy your day")
+#price = 1000000
+#good_credit = True
+#if good_credit:
+ #   down_payment = 0.10 * price
+#else:
+ #   down_payment = 0.20 * price
+#print(f'down_payment: ${down_payment}')
+has_good_credit = True
+has_high_income = False
+if has_good_credit or has_high_income:
+    print('Eligible for loan')
